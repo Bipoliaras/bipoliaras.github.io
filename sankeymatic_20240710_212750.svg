@@ -1,0 +1,319 @@
+<svg height="3000" width="2000" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 10/07/2024, 21:27:50 -->
+<rect height="3000" width="2000" fill="#ffffff"></rect>
+<g transform="translate(91.87785,13)">
+<g id="sankey_flows">
+<path id="flow1" d="M12 1318.39574C439.47709 1318.39574 439.47709 1290.67538 866.95418 1290.67538" fill="none" stroke-width="521.91017" stroke="#17becf" opacity="0.45"><title>Gdansk → Food: 561.87</title></path>
+<path id="flow0" d="M12 839.61814C439.47709 839.61814 439.47709 633.29811 866.95418 633.29811" fill="none" stroke-width="435.64502" stroke="#17becf" opacity="0.45"><title>Gdansk → Accomodation: 469.00</title></path>
+<path id="flow6" d="M878.95418 665.34449C1306.43127 665.34449 1306.43127 463.51473 1733.90836 463.51473" fill="none" stroke-width="371.55226" stroke="#e377c2" opacity="0.45"><title>Accomodation → Gdanskas: 400.00</title></path>
+<path id="flow2" d="M12 1743.93454C439.47709 1743.93454 439.47709 1893.11867 866.95418 1893.11867" fill="none" stroke-width="329.16743" stroke="#17becf" opacity="0.45"><title>Gdansk → Transportation: 354.37</title></path>
+<path id="flow32" d="M878.95418 1821.42302C1306.43127 1821.42302 1306.43127 1935.54742 1733.90836 1935.54742" fill="none" stroke-width="185.77613" stroke="#bcbd22" opacity="0.45"><title>Transportation → Sigvi nuoma: 200.00</title></path>
+<path id="flow3" d="M12 2000.20342C439.47709 2000.20342 439.47709 2246.5145 866.95418 2246.5145" fill="none" stroke-width="183.37033" stroke="#17becf" opacity="0.45"><title>Gdansk → Misc: 197.41</title></path>
+<path id="flow23" d="M878.95418 1401.35615C1306.43127 1401.35615 1306.43127 1509.26004 1733.90836 1509.26004" fill="none" stroke-width="119.50978" stroke="#2ca02c" opacity="0.45"><title>Food → Tygle: 128.66</title></path>
+<path id="flow40" d="M878.95418 2233.94675C1306.43127 2233.94675 1306.43127 2464.59003 1733.90836 2464.59003" fill="none" stroke-width="100.69995" stroke="#8c564b" opacity="0.45"><title>Misc → New balance'ai: 108.41</title></path>
+<path id="flow5" d="M878.95418 447.52198C1306.43127 447.52198 1306.43127 215.17138 1733.90836 215.17138" fill="none" stroke-width="64.09276" stroke="#8c564b" opacity="0.45"><title>Accomodation → Balstoge: 69.00</title></path>
+<path id="flow33" d="M878.95418 1942.65587C1306.43127 1942.65587 1306.43127 2087.30111 1733.90836 2087.30111" fill="none" stroke-width="56.68959" stroke="#17becf" opacity="0.45"><title>Transportation → EMSI: 61.03</title></path>
+<path id="flow12" d="M878.95418 1088.85748C1306.43127 1088.85748 1306.43127 861.03221 1733.90836 861.03221" fill="none" stroke-width="51.82225" stroke="#ff7f0e" opacity="0.45"><title>Food → Pierogarnia: 55.79</title></path>
+<path id="flow15" d="M878.95418 1196.66337C1306.43127 1196.66337 1306.43127 1060.4006 1733.90836 1060.4006" fill="none" stroke-width="44.27974" stroke="#9467bd" opacity="0.45"><title>Food → Wolt Sushi: 47.67</title></path>
+<path id="flow27" d="M878.95418 1141.33924C1306.43127 1141.33924 1306.43127 944.0348 1733.90836 944.0348" fill="none" stroke-width="42.84926" stroke="#2ca02c" opacity="0.45"><title>Food → Biedronka: 46.13</title></path>
+<path id="flow16" d="M878.95418 1239.66126C1306.43127 1239.66126 1306.43127 1133.91931 1733.90836 1133.91931" fill="none" stroke-width="41.71603" stroke="#8c564b" opacity="0.45"><title>Food → Sliwka W Kompot: 44.91</title></path>
+<path id="flow36" d="M878.95418 2008.19305C1306.43127 2008.19305 1306.43127 2244.40078 1733.90836 2244.40078" fill="none" stroke-width="41.13083" stroke="#2ca02c" opacity="0.45"><title>Transportation → MOL: 44.28</title></path>
+<path id="flow42" d="M878.95418 2303.70104C1306.43127 2303.70104 1306.43127 2595.38599 1733.90836 2595.38599" fill="none" stroke-width="37.91691" stroke="#7f7f7f" opacity="0.45"><title>Misc → Empik CDs + zurnalai: 40.82</title></path>
+<path id="flow4" d="M12 2107.84211C439.47709 2107.84211 439.47709 2423.66983 866.95418 2423.66983" fill="none" stroke-width="31.90705" stroke="#17becf" opacity="0.45"><title>Gdansk → Leisure: 34.35</title></path>
+<path id="flow26" d="M878.95418 1485.2991C1306.43127 1485.2991 1306.43127 1654.24466 1733.90836 1654.24466" fill="none" stroke-width="31.41474" stroke="#9467bd" opacity="0.45"><title>Food → Pensjonat u Jacka: 33.82</title></path>
+<path id="flow39" d="M878.95418 2169.21306C1306.43127 2169.21306 1306.43127 2369.33551 1733.90836 2369.33551" fill="none" stroke-width="28.76743" stroke="#9467bd" opacity="0.45"><title>Misc → Lauktuves: 30.97</title></path>
+<path id="flow18" d="M878.95418 1287.45681C1306.43127 1287.45681 1306.43127 1242.75653 1733.90836 1242.75653" fill="none" stroke-width="22.53464" stroke="#7f7f7f" opacity="0.45"><title>Food → Avocado Pestka: 24.26</title></path>
+<path id="flow30" d="M878.95418 1540.63716C1306.43127 1540.63716 1306.43127 1801.14522 1733.90836 1801.14522" fill="none" stroke-width="21.9866" stroke="#7f7f7f" opacity="0.45"><title>Food → Oregano Bistro: 23.67</title></path>
+<path id="flow29" d="M878.95418 1518.6552C1306.43127 1518.6552 1306.43127 1748.64243 1733.90836 1748.64243" fill="none" stroke-width="21.97732" stroke="#e377c2" opacity="0.45"><title>Food → Maxima LT: 23.66</title></path>
+<path id="flow38" d="M878.95418 2039.72855C1306.43127 2039.72855 1306.43127 2275.93628 1733.90836 2275.93628" fill="none" stroke-width="21.94016" stroke="#2ca02c" opacity="0.45"><title>Transportation → MOL: 23.62</title></path>
+<path id="flow7" d="M878.95418 1039.66861C1306.43127 1039.66861 1306.43127 689.76 1733.90836 689.76" fill="none" stroke-width="19.89662" stroke="#7f7f7f" opacity="0.45"><title>Food → Makas: 21.42</title></path>
+<path id="flow19" d="M878.95418 1307.31628C1306.43127 1307.31628 1306.43127 1293.13684 1733.90836 1293.13684" fill="none" stroke-width="17.18429" stroke="#bcbd22" opacity="0.45"><title>Food → Eklerownia: 18.50</title></path>
+<path id="flow34" d="M878.95418 1978.87757C1306.43127 1978.87757 1306.43127 2154.04364 1733.90836 2154.04364" fill="none" stroke-width="15.75382" stroke="#1f77b4" opacity="0.45"><title>Transportation → Plovykla: 16.96</title></path>
+<path id="flow17" d="M878.95418 1268.35438C1306.43127 1268.35438 1306.43127 1193.13327 1733.90836 1193.13327" fill="none" stroke-width="15.67022" stroke="#e377c2" opacity="0.45"><title>Food → Mala Sztuka: 16.87</title></path>
+<path id="flow43" d="M878.95418 2330.42958C1306.43127 2330.42958 1306.43127 2652.63536 1733.90836 2652.63536" fill="none" stroke-width="15.54017" stroke="#7f7f7f" opacity="0.45"><title>Misc → Empik CDs: 16.73</title></path>
+<path id="flow46" d="M878.95418 2422.57376C1306.43127 2422.57376 1306.43127 2736.30456 1733.90836 2736.30456" fill="none" stroke-width="14.49983" stroke="#17becf" opacity="0.45"><title>Leisure → Solidarumo muziejus: 15.61</title></path>
+<path id="flow14" d="M878.95418 1168.64369C1306.43127 1168.64369 1306.43127 1001.86008 1733.90836 1001.86008" fill="none" stroke-width="11.75963" stroke="#d62728" opacity="0.45"><title>Food → Lodziarnia: 12.66</title></path>
+<path id="flow21" d="M878.95418 1328.06283C1306.43127 1328.06283 1306.43127 1374.92505 1733.90836 1374.92505" fill="none" stroke-width="10.02262" stroke="#1f77b4" opacity="0.45"><title>Food → Stokrotka: 10.79</title></path>
+<path id="flow47" d="M878.95418 2434.72351C1306.43127 2434.72351 1306.43127 2778.97515 1733.90836 2778.97515" fill="none" stroke-width="9.79969" stroke="#1f77b4" opacity="0.45"><title>Leisure → Boulderingas: 10.55</title></path>
+<path id="flow24" d="M878.95418 1465.35139C1306.43127 1465.35139 1306.43127 1603.77611 1733.90836 1603.77611" fill="none" stroke-width="8.48068" stroke="#d62728" opacity="0.45"><title>Food → 100CZNIA: 9.13</title></path>
+<path id="flow20" d="M878.95418 1319.47997C1306.43127 1319.47997 1306.43127 1335.82136 1733.90836 1335.82136" fill="none" stroke-width="7.14309" stroke="#17becf" opacity="0.45"><title>Food → Labus: 7.69</title></path>
+<path id="flow37" d="M878.95418 2054.20051C1306.43127 2054.20051 1306.43127 2320.92908 1733.90836 2320.92908" fill="none" stroke-width="7.00376" stroke="#d62728" opacity="0.45"><title>Transportation → Paliw: 7.54</title></path>
+<path id="flow28" d="M878.95418 1504.33651C1306.43127 1504.33651 1306.43127 1703.8029 1733.90836 1703.8029" fill="none" stroke-width="6.66007" stroke="#8c564b" opacity="0.45"><title>Food → Circle K Lazdijai: 7.17</title></path>
+<path id="flow13" d="M878.95418 1117.34161C1306.43127 1117.34161 1306.43127 920.03717 1733.90836 920.03717" fill="none" stroke-width="5.146" stroke="#2ca02c" opacity="0.45"><title>Food → Biedronka: 5.54</title></path>
+<path id="flow22" d="M878.95418 1337.01259C1306.43127 1337.01259 1306.43127 1414.39565 1733.90836 1414.39565" fill="none" stroke-width="4.77445" stroke="#ff7f0e" opacity="0.45"><title>Food → Lidl: 5.14</title></path>
+<path id="flow9" d="M878.95418 1056.07264C1306.43127 1056.07264 1306.43127 736.68487 1733.90836 736.68487" fill="none" stroke-width="4.36574" stroke="#bcbd22" opacity="0.45"><title>Food → Orlen: 4.70</title></path>
+<path id="flow8" d="M878.95418 1051.75335C1306.43127 1051.75335 1306.43127 732.36557 1733.90836 732.36557" fill="none" stroke-width="4.27285" stroke="#bcbd22" opacity="0.45"><title>Food → Orlen: 4.60</title></path>
+<path id="flow44" d="M878.95418 2409.84345C1306.43127 2409.84345 1306.43127 2693.05342 1733.90836 2693.05342" fill="none" stroke-width="4.25427" stroke="#bcbd22" opacity="0.45"><title>Leisure → Arcade: 4.58</title></path>
+<path id="flow10" d="M878.95418 1060.04361C1306.43127 1060.04361 1306.43127 771.17666 1733.90836 771.17666" fill="none" stroke-width="3.57619" stroke="#17becf" opacity="0.45"><title>Food → Coffee Time: 3.85</title></path>
+<path id="flow45" d="M878.95418 2413.64721C1306.43127 2413.64721 1306.43127 2696.85719 1733.90836 2696.85719" fill="none" stroke-width="3.35326" stroke="#bcbd22" opacity="0.45"><title>Leisure → Arcade: 3.61</title></path>
+<path id="flow25" d="M878.95418 1340.50054C1306.43127 1340.50054 1306.43127 1417.8836 1733.90836 1417.8836" fill="none" stroke-width="2.20145" stroke="#ff7f0e" opacity="0.45"><title>Food → Lidl: 2.37</title></path>
+<path id="flow31" d="M878.95418 1333.84975C1306.43127 1333.84975 1306.43127 1380.71198 1733.90836 1380.71198" fill="none" stroke-width="1.55123" stroke="#1f77b4" opacity="0.45"><title>Food → Stokrotka: 1.67</title></path>
+<path id="flow11" d="M878.95418 1062.38903C1306.43127 1062.38903 1306.43127 804.04292 1733.90836 804.04292" fill="none" stroke-width="1.11466" stroke="#1f77b4" opacity="0.45"><title>Food → Eurospar: 1.20</title></path>
+<path id="flow35" d="M878.95418 1987.19106C1306.43127 1987.19106 1306.43127 2192.87796 1733.90836 2192.87796" fill="none" stroke-width="1" stroke="#ff7f0e" opacity="0.45"><title>Transportation → Parkingas: 0.94</title></path>
+<path id="flow41" d="M878.95418 2284.51966C1306.43127 2284.51966 1306.43127 2545.68377 1733.90836 2545.68377" fill="none" stroke-width="1" stroke="#e377c2" opacity="0.45"><title>Misc → WC: 0.48</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="621.79563" height="1502" width="12" fill="#17becf" fill-opacity="1"><title>Gdansk:
+1,617.00</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="866.95418" y="415.4756" height="435.64502" width="12" fill="#1f77b4" fill-opacity="1"><title>Accomodation:
+469.00</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="866.95418" y="1029.7203" height="521.91017" width="12" fill="#ff7f0e" fill-opacity="1"><title>Food:
+561.87</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="866.95418" y="1728.53495" height="329.16743" width="12" fill="#2ca02c" fill-opacity="1"><title>Transportation:
+354.37</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="866.95418" y="2154.82934" height="183.37033" width="12" fill="#d62728" fill-opacity="1"><title>Misc:
+197.41</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="866.95418" y="2407.71631" height="31.90705" width="12" fill="#9467bd" fill-opacity="1"><title>Leisure:
+34.35</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="1733.90836" y="183.125" height="64.09276" width="12" fill="#8c564b" fill-opacity="1"><title>Balstoge:
+69.00</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="1733.90836" y="277.7386" height="371.55226" width="12" fill="#e377c2" fill-opacity="1"><title>Gdanskas:
+400.00</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="1733.90836" y="679.81169" height="19.89662" width="12" fill="#7f7f7f" fill-opacity="1"><title>Makas:
+21.42</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="1733.90836" y="730.22915" height="8.63859" width="12" fill="#bcbd22" fill-opacity="1"><title>Orlen:
+9.30</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="1733.90836" y="769.38857" height="3.57619" width="12" fill="#17becf" fill-opacity="1"><title>Coffee Time:
+3.85</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="1733.90836" y="803.48559" height="1.11466" width="12" fill="#1f77b4" fill-opacity="1"><title>Eurospar:
+1.20</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="1733.90836" y="835.12108" height="51.82225" width="12" fill="#ff7f0e" fill-opacity="1"><title>Pierogarnia:
+55.79</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="1733.90836" y="917.46417" height="47.99526" width="12" fill="#2ca02c" fill-opacity="1"><title>Biedronka:
+51.67</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="1733.90836" y="995.98026" height="11.75963" width="12" fill="#d62728" fill-opacity="1"><title>Lodziarnia:
+12.66</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="1733.90836" y="1038.26073" height="44.27974" width="12" fill="#9467bd" fill-opacity="1"><title>Wolt Sushi:
+47.67</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="1733.90836" y="1113.0613" height="41.71603" width="12" fill="#8c564b" fill-opacity="1"><title>Sliwka W Kompot:
+44.91</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="1733.90836" y="1185.29816" height="15.67022" width="12" fill="#e377c2" fill-opacity="1"><title>Mala Sztuka:
+16.87</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="1733.90836" y="1231.48921" height="22.53464" width="12" fill="#7f7f7f" fill-opacity="1"><title>Avocado Pestka:
+24.26</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="1733.90836" y="1284.54469" height="17.18429" width="12" fill="#bcbd22" fill-opacity="1"><title>Eklerownia:
+18.50</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="1733.90836" y="1332.24981" height="7.14309" width="12" fill="#17becf" fill-opacity="1"><title>Labus:
+7.69</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="1733.90836" y="1369.91374" height="11.57385" width="12" fill="#1f77b4" fill-opacity="1"><title>Stokrotka:
+12.46</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="1733.90836" y="1412.00843" height="6.97589" width="12" fill="#ff7f0e" fill-opacity="1"><title>Lidl:
+7.51</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="1733.90836" y="1449.50515" height="119.50978" width="12" fill="#2ca02c" fill-opacity="1"><title>Tygle:
+128.66</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="1733.90836" y="1599.53577" height="8.48068" width="12" fill="#d62728" fill-opacity="1"><title>100CZNIA:
+9.13</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="1733.90836" y="1638.53728" height="31.41474" width="12" fill="#9467bd" fill-opacity="1"><title>Pensjonat u Jacka:
+33.82</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="1733.90836" y="1700.47286" height="6.66007" width="12" fill="#8c564b" fill-opacity="1"><title>Circle K Lazdijai:
+7.17</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="1733.90836" y="1737.65377" height="21.97732" width="12" fill="#e377c2" fill-opacity="1"><title>Maxima LT:
+23.66</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="1733.90836" y="1790.15192" height="21.9866" width="12" fill="#7f7f7f" fill-opacity="1"><title>Oregano Bistro:
+23.67</title></rect>
+</g>
+<g class="node">
+<rect id="r29" class="for_r29" x="1733.90836" y="1842.65936" height="185.77613" width="12" fill="#bcbd22" fill-opacity="1"><title>Sigvi nuoma:
+200.00</title></rect>
+</g>
+<g class="node">
+<rect id="r30" class="for_r30" x="1733.90836" y="2058.95632" height="56.68959" width="12" fill="#17becf" fill-opacity="1"><title>EMSI:
+61.03</title></rect>
+</g>
+<g class="node">
+<rect id="r31" class="for_r31" x="1733.90836" y="2146.16674" height="15.75382" width="12" fill="#1f77b4" fill-opacity="1"><title>Plovykla:
+16.96</title></rect>
+</g>
+<g class="node">
+<rect id="r32" class="for_r32" x="1733.90836" y="2192.44139" height="0.87315" width="12" fill="#ff7f0e" fill-opacity="1"><title>Parkingas:
+0.94</title></rect>
+</g>
+<g class="node">
+<rect id="r33" class="for_r33" x="1733.90836" y="2223.83537" height="63.071" width="12" fill="#2ca02c" fill-opacity="1"><title>MOL:
+67.90</title></rect>
+</g>
+<g class="node">
+<rect id="r34" class="for_r34" x="1733.90836" y="2317.4272" height="7.00376" width="12" fill="#d62728" fill-opacity="1"><title>Paliw:
+7.54</title></rect>
+</g>
+<g class="node">
+<rect id="r35" class="for_r35" x="1733.90836" y="2354.95179" height="28.76743" width="12" fill="#9467bd" fill-opacity="1"><title>Lauktuves:
+30.97</title></rect>
+</g>
+<g class="node">
+<rect id="r36" class="for_r36" x="1733.90836" y="2414.24006" height="100.69995" width="12" fill="#8c564b" fill-opacity="1"><title>New balance'ai:
+108.41</title></rect>
+</g>
+<g class="node">
+<rect id="r37" class="for_r37" x="1733.90836" y="2545.46084" height="0.44586" width="12" fill="#e377c2" fill-opacity="1"><title>WC:
+0.48</title></rect>
+</g>
+<g class="node">
+<rect id="r38" class="for_r38" x="1733.90836" y="2576.42754" height="37.91691" width="12" fill="#7f7f7f" fill-opacity="1"><title>Empik CDs + zurnalai:
+40.82</title></rect>
+</g>
+<g class="node">
+<rect id="r39" class="for_r39" x="1733.90836" y="2644.86528" height="15.54017" width="12" fill="#7f7f7f" fill-opacity="1"><title>Empik CDs:
+16.73</title></rect>
+</g>
+<g class="node">
+<rect id="r40" class="for_r40" x="1733.90836" y="2690.92628" height="7.60753" width="12" fill="#bcbd22" fill-opacity="1"><title>Arcade:
+8.19</title></rect>
+</g>
+<g class="node">
+<rect id="r41" class="for_r41" x="1733.90836" y="2729.05465" height="14.49983" width="12" fill="#17becf" fill-opacity="1"><title>Solidarumo muziejus:
+15.61</title></rect>
+</g>
+<g class="node">
+<rect id="r42" class="for_r42" x="1733.90836" y="2774.07531" height="9.79969" width="12" fill="#1f77b4" fill-opacity="1"><title>Boulderingas:
+10.55</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="908.12215" y="2979" font-size="17.36942px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-79.87785" y="1352.27065" width="78.24516" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="1372.79563" font-weight="400" font-size="14.4px" dy="-5.12497">Gdansk<tspan x="-6.29754" dy="19.32" font-weight="400" font-size="17.6px">1,617.00</tspan></text>
+<rect id="label1_bg" class="for_r1" x="822.66041" y="612.7731" width="100.98734" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="872.95418" y="633.29811" font-weight="400" font-size="14.4px" dy="-5.12497">Accomodation<tspan x="872.95418" dy="19.32" font-weight="400" font-size="17.6px">469.00</tspan></text>
+<rect id="label2_bg" class="for_r2" x="841.37135" y="1270.15042" width="63.56547" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="middle" x="872.95418" y="1290.67538" font-weight="400" font-size="14.4px" dy="-5.12497">Food<tspan x="872.95418" dy="19.32" font-weight="400" font-size="17.6px">561.87</tspan></text>
+<rect id="label3_bg" class="for_r3" x="822.12916" y="1872.59365" width="102.04984" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="middle" x="872.95418" y="1893.11867" font-weight="400" font-size="14.4px" dy="-5.12497">Transportation<tspan x="872.95418" dy="19.32" font-weight="400" font-size="17.6px">354.37</tspan></text>
+<rect id="label4_bg" class="for_r4" x="841.37135" y="2225.9894" width="63.56547" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="middle" x="872.95418" y="2246.5145" font-weight="400" font-size="14.4px" dy="-5.12497">Misc<tspan x="872.95418" dy="19.32" font-weight="400" font-size="17.6px">197.41</tspan></text>
+<rect id="label5_bg" class="for_r5" x="844.67213" y="2403.14492" width="56.96391" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="middle" x="872.95418" y="2423.66983" font-weight="400" font-size="14.4px" dy="-5.12497">Leisure<tspan x="872.95418" dy="19.32" font-weight="400" font-size="17.6px">34.35</tspan></text>
+<rect id="label6_bg" class="for_r6" x="1747.54109" y="194.64642" width="65.76859" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="1752.2059" y="215.17138" font-weight="400" font-size="14.4px" dy="-5.12497">Balstoge<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">69.00</tspan></text>
+<rect id="label7_bg" class="for_r7" x="1747.54109" y="442.98977" width="74.56547" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="1752.2059" y="463.51473" font-weight="400" font-size="14.4px" dy="-5.12497">Gdanskas<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">400.00</tspan></text>
+<rect id="label8_bg" class="for_r8" x="1747.54109" y="669.23501" width="53.77641" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="1752.2059" y="689.76" font-weight="400" font-size="14.4px" dy="-5.12497">Makas<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">21.42</tspan></text>
+<rect id="label9_bg" class="for_r9" x="1747.54109" y="714.02346" width="44.94828" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="1752.2059" y="734.54844" font-weight="400" font-size="14.4px" dy="-5.12497">Orlen<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">9.30</tspan></text>
+<rect id="label10_bg" class="for_r10" x="1747.54109" y="750.65164" width="87.12797" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="1752.2059" y="771.17666" font-weight="400" font-size="14.4px" dy="-5.12497">Coffee Time<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">3.85</tspan></text>
+<rect id="label11_bg" class="for_r11" x="1747.54109" y="783.51791" width="68.15922" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="1752.2059" y="804.04292" font-weight="400" font-size="14.4px" dy="-5.12497">Eurospar<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">1.20</tspan></text>
+<rect id="label12_bg" class="for_r12" x="1747.54109" y="840.50723" width="83.37797" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="1752.2059" y="861.03221" font-weight="400" font-size="14.4px" dy="-5.12497">Pierogarnia<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">55.79</tspan></text>
+<rect id="label13_bg" class="for_r13" x="1747.54109" y="920.93679" width="74.57328" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="1752.2059" y="941.4618" font-weight="400" font-size="14.4px" dy="-5.12497">Biedronka<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">51.67</tspan></text>
+<rect id="label14_bg" class="for_r14" x="1747.54109" y="981.33511" width="76.17484" height="41.12001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="1752.2059" y="1001.86008" font-weight="400" font-size="14.4px" dy="-5.12497">Lodziarnia<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">12.66</tspan></text>
+<rect id="label15_bg" class="for_r15" x="1747.54109" y="1039.87563" width="78.29984" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="1752.2059" y="1060.4006" font-weight="400" font-size="14.4px" dy="-5.12497">Wolt Sushi<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">47.67</tspan></text>
+<rect id="label16_bg" class="for_r16" x="1747.54109" y="1113.39431" width="122.56547" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="start" x="1752.2059" y="1133.91931" font-weight="400" font-size="14.4px" dy="-5.12497">Sliwka W Kompot<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">44.91</tspan></text>
+<rect id="label17_bg" class="for_r17" x="1747.54109" y="1172.6083" width="88.97172" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="start" x="1752.2059" y="1193.13327" font-weight="400" font-size="14.4px" dy="-5.12497">Mala Sztuka<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">16.87</tspan></text>
+<rect id="label18_bg" class="for_r18" x="1747.54109" y="1222.23147" width="113.54203" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="start" x="1752.2059" y="1242.75653" font-weight="400" font-size="14.4px" dy="-5.12497">Avocado Pestka<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">24.26</tspan></text>
+<rect id="label19_bg" class="for_r19" x="1747.54109" y="1272.61184" width="80.16703" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="start" x="1752.2059" y="1293.13684" font-weight="400" font-size="14.4px" dy="-5.12497">Eklerownia<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">18.50</tspan></text>
+<rect id="label20_bg" class="for_r20" x="1747.54109" y="1315.29641" width="48.96391" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="1752.2059" y="1335.82136" font-weight="400" font-size="14.4px" dy="-5.12497">Labus<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">7.69</tspan></text>
+<rect id="label21_bg" class="for_r21" x="1747.54109" y="1355.17568" width="70.55766" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="start" x="1752.2059" y="1375.70067" font-weight="400" font-size="14.4px" dy="-5.12497">Stokrotka<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">12.46</tspan></text>
+<rect id="label22_bg" class="for_r22" x="1747.54109" y="1394.97134" width="43.98734" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="start" x="1752.2059" y="1415.49637" font-weight="400" font-size="14.4px" dy="-5.12497">Lidl<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">7.51</tspan></text>
+<rect id="label23_bg" class="for_r23" x="1747.54109" y="1488.73501" width="63.56547" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="start" x="1752.2059" y="1509.26004" font-weight="400" font-size="14.4px" dy="-5.12497">Tygle<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">128.66</tspan></text>
+<rect id="label24_bg" class="for_r24" x="1747.54109" y="1583.25112" width="76.95609" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="1752.2059" y="1603.77611" font-weight="400" font-size="14.4px" dy="-5.12497">100CZNIA<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">9.13</tspan></text>
+<rect id="label25_bg" class="for_r25" x="1747.54109" y="1633.71963" width="127.40922" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="1752.2059" y="1654.24466" font-weight="400" font-size="14.4px" dy="-5.12497">Pensjonat u Jacka<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">33.82</tspan></text>
+<rect id="label26_bg" class="for_r26" x="1747.54109" y="1683.27786" width="112.97172" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="start" x="1752.2059" y="1703.8029" font-weight="400" font-size="14.4px" dy="-5.12497">Circle K Lazdijai<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">7.17</tspan></text>
+<rect id="label27_bg" class="for_r27" x="1747.54109" y="1728.11746" width="79.88578" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="start" x="1752.2059" y="1748.64243" font-weight="400" font-size="14.4px" dy="-5.12497">Maxima LT<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">23.66</tspan></text>
+<rect id="label28_bg" class="for_r28" x="1747.54109" y="1780.62026" width="106.58109" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="start" x="1752.2059" y="1801.14522" font-weight="400" font-size="14.4px" dy="-5.12497">Oregano Bistro<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">23.67</tspan></text>
+<rect id="label29_bg" class="for_r29" x="1747.54109" y="1915.02236" width="88.97172" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="start" x="1752.2059" y="1935.54742" font-weight="400" font-size="14.4px" dy="-5.12497">Sigvi nuoma<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">200.00</tspan></text>
+<rect id="label30_bg" class="for_r30" x="1747.54109" y="2066.77603" width="53.77641" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="start" x="1752.2059" y="2087.30111" font-weight="400" font-size="14.4px" dy="-5.12497">EMSI<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">61.03</tspan></text>
+<rect id="label31_bg" class="for_r31" x="1747.54109" y="2133.5187" width="63.35453" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="start" x="1752.2059" y="2154.04364" font-weight="400" font-size="14.4px" dy="-5.12497">Plovykla<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">16.96</tspan></text>
+<rect id="label32_bg" class="for_r32" x="1747.54109" y="2172.35293" width="73.76859" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="start" x="1752.2059" y="2192.87796" font-weight="400" font-size="14.4px" dy="-5.12497">Parkingas<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">0.94</tspan></text>
+<rect id="label33_bg" class="for_r33" x="1747.54109" y="2234.84585" width="53.77641" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="start" x="1752.2059" y="2255.37086" font-weight="400" font-size="14.4px" dy="-5.12497">MOL<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">67.90</tspan></text>
+<rect id="label34_bg" class="for_r34" x="1747.54109" y="2300.4042" width="44.14359" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label34" class="for_r34" text-anchor="start" x="1752.2059" y="2320.92908" font-weight="400" font-size="14.4px" dy="-5.12497">Paliw<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">7.54</tspan></text>
+<rect id="label35_bg" class="for_r35" x="1747.54109" y="2348.81045" width="75.37797" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label35" class="for_r35" text-anchor="start" x="1752.2059" y="2369.33551" font-weight="400" font-size="14.4px" dy="-5.12497">Lauktuves<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">30.97</tspan></text>
+<rect id="label36_bg" class="for_r36" x="1747.54109" y="2444.06509" width="106.94047" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label36" class="for_r36" text-anchor="start" x="1752.2059" y="2464.59003" font-weight="400" font-size="14.4px" dy="-5.12497">New balance'ai<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">108.41</tspan></text>
+<rect id="label37_bg" class="for_r37" x="1747.54109" y="2525.15884" width="43.98734" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label37" class="for_r37" text-anchor="start" x="1752.2059" y="2545.68377" font-weight="400" font-size="14.4px" dy="-5.12497">WC<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">0.48</tspan></text>
+<rect id="label38_bg" class="for_r38" x="1747.54109" y="2574.86099" width="148.58109" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label38" class="for_r38" text-anchor="start" x="1752.2059" y="2595.38599" font-weight="400" font-size="14.4px" dy="-5.12497">Empik CDs + zurnalai<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">40.82</tspan></text>
+<rect id="label39_bg" class="for_r39" x="1747.54109" y="2632.11025" width="81.73734" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label39" class="for_r39" text-anchor="start" x="1752.2059" y="2652.63536" font-weight="400" font-size="14.4px" dy="-5.12497">Empik CDs<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">16.73</tspan></text>
+<rect id="label40_bg" class="for_r40" x="1747.54109" y="2674.20498" width="55.36234" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label40" class="for_r40" text-anchor="start" x="1752.2059" y="2694.73005" font-weight="400" font-size="14.4px" dy="-5.12497">Arcade<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">8.19</tspan></text>
+<rect id="label41_bg" class="for_r41" x="1747.54109" y="2715.77944" width="143.39359" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label41" class="for_r41" text-anchor="start" x="1752.2059" y="2736.30456" font-weight="400" font-size="14.4px" dy="-5.12497">Solidarumo muziejus<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">15.61</tspan></text>
+<rect id="label42_bg" class="for_r42" x="1747.54109" y="2758.4501" width="93.79203" height="41.12007" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label42" class="for_r42" text-anchor="start" x="1752.2059" y="2778.97515" font-weight="400" font-size="14.4px" dy="-5.12497">Boulderingas<tspan x="1752.2059" dy="19.32" font-weight="400" font-size="17.6px">10.55</tspan></text>
+</g>
+</g></svg>
